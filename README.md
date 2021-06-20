@@ -19,19 +19,19 @@ LinkedIn : [LinkedIn](https://www.linkedin.com/in/m-abdeldayem/)
 
 ## Projects
 
-1. Fruit Hub / **Kotlin**
+### Fruit Hub / **Kotlin**
 
 <img src="https://github.com/Mohammed187/FruitHub/raw/Mohammed187-patch-1/Screenshot%202021-05-23%20233641.png" height="500">
 
 - Link : [Fruit Hub](https://github.com/Mohammed187/FruitHub "Fruit Hub")
 
-2. BellaOnojieFoodApp / **Kotlin**
+### BellaOnojieFoodApp / **Kotlin**
 
 <img src="https://github.com/Mohammed187/BellaOnojieFoodApp/raw/Mohammed187-screenshots/Screenshot_20210422_225245.png" height="500">
 
 - Link : [BellaOnojieFoodApp](https://github.com/Mohammed187/BellaOnojieFoodApp "BellaOnojieFoodApp")
 
-3. NectarOnlineGrocery / **Java**
+### NectarOnlineGrocery / **Java**
 
 <img src="https://raw.githubusercontent.com/Mohammed187/NectarOnlineGrocery/master/Cover.jpg" height="500">
 
