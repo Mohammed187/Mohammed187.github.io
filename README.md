@@ -19,8 +19,23 @@ Email : M.eldeeb2011@yahoo.com
 
 ## Projects
 
+1. Fruit Hub / **Kotlin**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Fruit Hub Image]({{site.baseurl}}/https://github.com/Mohammed187/FruitHub/raw/Mohammed187-patch-1/Screenshot%202021-05-23%20233641.png)
+
+Link : [Fruit Hub](https://github.com/Mohammed187/FruitHub "Fruit Hub")
+
+2. BellaOnojieFoodApp / **Kotlin**
+
+![BellaOnojieFoodApp Image]({{site.baseurl}}/https://github.com/Mohammed187/BellaOnojieFoodApp/raw/Mohammed187-screenshots/Screenshot_20210422_225245.png)
+
+Link : [BellaOnojieFoodApp](https://github.com/Mohammed187/BellaOnojieFoodApp "BellaOnojieFoodApp")
+
+3. NectarOnlineGrocery / **Java**
+
+![NectarOnlineGrocery]({{site.baseurl}}/https://raw.githubusercontent.com/Mohammed187/NectarOnlineGrocery/master/Cover.jpg)
+
+Link : [NectarOnlineGrocery](https://github.com/Mohammed187/NectarOnlineGrocery "NectarOnlineGrocery")
 
 ### Markdown
 
