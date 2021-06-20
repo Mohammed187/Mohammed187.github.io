@@ -2,11 +2,11 @@
 
 ## Personal Info
 
-Name : Muhammed Abdel Dayem
+- Name : Muhammed Abdel Dayem
+- Tel : +971-561841851
+- Email : M.eldeeb2011@yahoo.com
 
-Tel : +971-561841851
-
-Email : M.eldeeb2011@yahoo.com
+LinkedIn : [LinkedIn](https://www.linkedin.com/in/m-abdeldayem/)
 
 ## Skills
 
